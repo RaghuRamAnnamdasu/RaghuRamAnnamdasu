@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghuramannamdasu&label=Profile%20views&color=0e75b6&style=flat" alt="raghuramannamdasu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghuramannamdasu" alt="raghuramannamdasu" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://deluxe-bublanina-57a938.netlify.app/](https://deluxe-bublanina-57a938.netlify.app/)
-
 - 📫 How to reach me **annamdasuraghuram@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10CFtr9rfPSIePBcTSGfsA3Cr_5KWJXPG/view?usp=sharing](https://drive.google.com/file/d/10CFtr9rfPSIePBcTSGfsA3Cr_5KWJXPG/view?usp=sharing)
